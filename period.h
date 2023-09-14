@@ -28,3 +28,4 @@ void set_routes(period_format p, route_format f);
 void add_route_to_period(period_format p, route r);
 
 #endif
+
