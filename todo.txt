@@ -1,0 +1,21 @@
+THING TO COMPLETE 
+
+collection.c
+collection.h
+
+period.c
+period.h
+
+Collection:
+a)
+Ordered list for the abstract data type for this functionality for cluster of routes
+
+b)
+Linked list for the underlying data structure as a basis to model the cluster of routes
+
+Periods:
+c)
+Binary search tree for the abstract data type for collection of periods
+
+d)
+Linked list for the underlying data structure for collection periods
